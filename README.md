@@ -1,6 +1,6 @@
 # COVID-19 Data Visualization and ML Project
 
-This project analyzes the COVID-19 dataset, providing data visualizations and applying machine learning algorithms to derive insights.
+This project analyzes the COVID-19 dataset, providing data visualizations and applying machine learning algorithms to derive insights.The model needs further tweaking.
 
 ## Contents
 
